@@ -18,8 +18,8 @@
 <body>
 
 <div style="margin-bottom:0">
-  <div><h1>The Beauty Club</h1></div>
   <div class="row">
+    <div class="col" style="background-color:lavender;"><h1>The Beauty Club</h1></div>
     <div class="col" style="background-color:lavender;">.col</div>
     <div class="col" style="background-color:orange;">.col</div>
     <div class="col" style="background-color:lavender;">.col</div>
