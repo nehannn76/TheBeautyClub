@@ -17,8 +17,13 @@
 </head>
 <body>
 
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>My First Bootstrap 4 Page</h1>
+<div style="margin-bottom:0">
+  <div><h1>The Beauty Club</h1></div>
+  <div class="row">
+    <div class="col" style="background-color:lavender;">.col</div>
+    <div class="col" style="background-color:orange;">.col</div>
+    <div class="col" style="background-color:lavender;">.col</div>
+  </div>
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
