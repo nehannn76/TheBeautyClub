@@ -1,0 +1,73 @@
+#logo{
+	padding-right: 400px;
+}
+
+#nav{
+	background-color: white;
+}
+#menu_items{
+	
+	color: green;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#menu_items:hover{
+	
+	#background: #32CD32;
+	color: black;
+}
+
+#list{
+	
+
+}
+
+body {margin:0;}
+
+.services {
+  overflow: hidden;
+  background-color: green;
+  <!--position: fixed;-->
+  top: 0;
+  width: 100%;
+}
+
+.services a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 50px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.services a:hover {
+  background: #32CD32;
+  color: White;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+#slider{
+ position: absolute;
+    max-width: 100%;
+    width: 100%;
+    height: 240px;
+    max-height: 100%;
+}
+
+#slider img{
+	height: 100%;
+    width: 100%;
+}
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
